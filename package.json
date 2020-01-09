@@ -4,6 +4,7 @@
   "description": "Learning Electron",
   "main": "./app/main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/yy8678/electron-learning/issues"
   },
-  "homepage": "https://github.com/yy8678/electron-learning#readme"
+  "homepage": "https://github.com/yy8678/electron-learning#readme",
+  "devDependencies": {
+    "electron": "^7.1.8"
+  }
 }
