@@ -1,0 +1,22 @@
+{
+  "name": "electron-learning",
+  "version": "0.0.0",
+  "description": "Learning Electron",
+  "main": "./app/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yy8678/electron-learning.git"
+  },
+  "keywords": [
+    "Electron"
+  ],
+  "author": "Ruby Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yy8678/electron-learning/issues"
+  },
+  "homepage": "https://github.com/yy8678/electron-learning#readme"
+}
